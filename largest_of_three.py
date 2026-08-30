@@ -9,3 +9,8 @@ else:
   largest=num3
   print("the largest number is",largest)
   
+#sample Output
+#enter first number:45
+#enter second number:78
+#enter third number:23
+#the largest number is :78.0
